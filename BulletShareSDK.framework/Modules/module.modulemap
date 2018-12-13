@@ -1,0 +1,6 @@
+framework module BulletShareSDK {
+  umbrella header "BulletShareSDK.h"
+
+  export *
+  module * { export * }
+}
